@@ -35,6 +35,10 @@
 /src/Monolog/Handler/AbstractSyslogHandler.php export-ignore
 /src/Monolog/Handler/AmqpHandler.php export-ignore
 /src/Monolog/Handler/BrowserConsoleHandler.php export-ignore
+/src/Monolog/Handler/SwiftMailerHandler.php export-ignore
+/src/Monolog/Handler/SlackbotHandler.php export-ignore
+/src/Monolog/Handler/RavenHandler.php export-ignore
+/src/Monolog/Handler/HipChatHandler.php export-ignore
 /src/Monolog/Handler/BufferHandler.php export-ignore
 /src/Monolog/Handler/ChromePHPHandler.php export-ignore
 /src/Monolog/Handler/CouchDBHandler.php export-ignore
@@ -89,7 +93,7 @@
 /src/Monolog/Handler/ZendMonitorHandler.php export-ignore
 /src/Monolog/Handler/ZendMonitorHandler.php export-ignore
 /src/Monolog/Handler/MailHandler.php export-ignore
-/src/Monolog/Handler/ElasticsearchHandler.php export-ignore
+/src/Monolog/Handler/ElasticSearchHandler.php export-ignore
 /src/Monolog/Handler/ProcessHandler.php export-ignore
 
 /src/Monolog/Attribute export-ignore
